@@ -17,7 +17,7 @@ MSFS Universal Announcer
 konzipiert wurde.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fearlessfrog/MSFS_Universal_Announcer/main/icon.ico"
+  <img src="https://raw.githubusercontent.com/fearlessfrog/MSFS_Universal_Announcer/main/images/logo.jpg"
        alt="MSFS Universal Announcer Icon"
        width="96">
 </p>
