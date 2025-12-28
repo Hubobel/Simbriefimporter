@@ -4,8 +4,9 @@
   <img src="icon.ico" alt="Simbriefimporter Icon" width="128">
 </p>
 
+to be continued...
 
-⸻
+---
 
 ⚖️ License & Disclaimer
 
@@ -19,4 +20,4 @@ This software makes use of SimConnect © Microsoft Corporation. All rights reser
 
 This application is not affiliated with, endorsed by, sponsored by, or in any way associated with FenixSim Ltd, Navigraph, or FSDreamTeam.
 
-⸻
+---
