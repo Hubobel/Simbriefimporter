@@ -6,8 +6,8 @@
 
 to be continued...
 
-
-⚠️ Disclaimer / Haftungsausschluss
+---
+⚠️⚖️  Disclaimer / Haftungsausschluss
 
 🇩🇪 Deutsch
 
@@ -29,8 +29,6 @@ Insbesondere liegt keine Zusammenarbeit, Partnerschaft, Genehmigung oder Empfehl
 Alle genannten Namen, Logos und Markenrechte sind Eigentum der jeweiligen Rechteinhaber.
 Diese Erweiterung wird unabhängig entwickelt und bereitgestellt. Die Verantwortung für Nutzung, Konfiguration und Kompatibilität liegt ausschließlich beim Anwender.
 
-⸻
-
 🇬🇧 English
 
 This software is an independent add-on designed to be used in conjunction with the project
@@ -41,9 +39,9 @@ There is no affiliation, partnership, endorsement, or any other form of associat
 
 All names, logos, and trademarks are the property of their respective owners.
 This add-on is developed and distributed independently. Responsibility for usage, configuration, and compatibility rests solely with the user.
----
 
-⚖️ License & Disclaimer
+
+
 
 This software is provided free of charge and “as is”, without warranty of any kind, express or implied. The author assumes no responsibility or liability for any damages arising from the use of this software.
 
